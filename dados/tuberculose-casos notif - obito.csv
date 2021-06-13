@@ -1,0 +1,51 @@
+TUBERCULOSE - Casos confirmados notificados no Sistema de Informação de Agravos de Notificação - Brasil
+Casos confirmados por UF de notificação e Ano Diagnóstico
+Situação Encerra.: Óbito por tuberculose
+Período:2001-2020
+"UF de notificação";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"Total"
+"11 Rondônia";-;-;-;1;1;2;15;8;4;12;10;5;16;12;4;10;10;5;4;9;128
+"12 Acre";-;2;-;5;1;5;12;9;4;10;6;8;13;10;14;8;7;6;8;9;137
+"13 Amazonas";10;4;1;5;16;57;104;89;131;127;84;98;137;90;95;96;147;145;143;128;1707
+"14 Roraima";-;1;1;-;-;1;1;5;4;5;7;5;5;3;2;3;5;8;16;11;83
+"15 Pará";1;1;2;1;4;33;100;106;87;102;107;101;96;69;62;57;83;86;124;71;1293
+"16 Amapá";-;-;-;-;-;3;5;6;3;5;6;8;5;5;4;2;4;3;6;5;70
+"17 Tocantins";1;-;-;-;2;2;10;3;13;8;12;6;8;8;5;2;6;9;6;7;108
+"21 Maranhão";4;2;2;2;5;32;93;64;77;73;71;105;89;66;76;81;76;112;130;90;1250
+"22 Piauí";-;-;-;-;8;7;32;38;38;24;38;34;47;37;22;41;31;33;29;26;485
+"23 Ceará";-;-;-;3;15;36;139;142;171;121;92;133;109;115;96;102;151;151;129;89;1794
+"24 Rio Grande do Norte";-;1;-;1;2;6;44;51;51;54;71;57;53;46;44;63;62;83;71;35;795
+"25 Paraíba";-;-;-;4;1;4;22;41;37;49;55;51;51;57;42;30;41;56;48;32;621
+"26 Pernambuco";4;4;23;23;37;52;237;228;199;202;177;244;255;258;325;302;404;352;341;254;3921
+"27 Alagoas";20;15;21;15;36;32;60;49;81;48;52;48;44;41;45;67;65;77;63;40;919
+"28 Sergipe";-;-;-;1;1;3;16;29;40;24;33;36;41;46;39;31;20;25;26;17;428
+"29 Bahia";6;5;5;4;16;94;234;177;225;214;158;159;163;204;211;165;220;183;206;127;2776
+"31 Minas Gerais";-;8;7;4;9;60;262;204;176;188;194;188;154;167;186;181;170;164;155;141;2618
+"32 Espírito Santo";-;-;-;-;-;11;69;52;54;51;41;54;65;60;77;70;59;57;66;-;786
+"33 Rio de Janeiro";2;4;8;10;115;561;640;646;568;605;562;595;618;700;562;479;471;475;446;297;8364
+"35 São Paulo";2;-;-;4;68;606;596;538;505;543;597;594;666;648;683;703;755;746;731;609;9594
+"41 Paraná";2;1;7;13;42;53;107;107;96;109;104;97;126;91;84;98;86;112;111;102;1548
+"42 Santa Catarina";-;2;-;-;-;20;65;73;65;69;58;48;51;49;45;42;64;63;57;37;808
+"43 Rio Grande do Sul";17;13;19;27;21;65;154;214;188;227;213;246;180;222;251;206;229;272;256;150;3170
+"50 Mato Grosso do Sul";-;-;-;6;6;11;49;55;67;55;44;43;30;26;31;41;52;39;43;40;638
+"51 Mato Grosso";1;-;-;-;2;13;33;28;34;26;32;41;29;34;40;47;51;38;32;23;504
+"52 Goiás";-;-;-;-;1;21;31;34;40;29;36;57;39;41;53;46;39;42;40;24;573
+"53 Distrito Federal";2;5;2;-;-;3;6;8;4;12;7;7;10;12;13;9;6;15;20;14;155
+"Total";72;68;98;129;409;1793;3136;3004;2962;2992;2867;3068;3100;3117;3111;2982;3314;3357;3307;2387;45273
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Excluídos os registros encerrados com mudança de diagnóstico.
+ Períodos disponíveis - Correspondem aos anos de diagnóstico dos casos.
+ Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável de interesse, e na coluna a variável “Ano do diagnóstico”; em “Períodos Disponíveis” assinale o ano inicial da série e todos os posteriores até o ano atual (para
+ Para cálculo da incidência selecione o local de residência e as seguintes categorias da variável “Tipo de entrada”: caso novo, não sabe e pós óbito.
+ A variável “Beneficiário de programa de transferência de renda do governo” não contém dados do Estado de São Paulo (SP). Quanto a variável “Terapia antirretroviral durante o tratamento da TB”, os dados do estado de SP foram inseridos a partir do seg
+ Não é possível calcular indicadores relacionados aos contatos de tuberculose.
+ Em 2014, foram incluídas as seguintes variáveis no Sinan-Net (Tuberculose): populações especiais (população privada de liberdade, população em situação de rua, profissional de saúde e imigrante), doenças e agravos associados (uso de drogas ilícitas
+ A variável “institucionalizado” foi descontinuada em 2015. Portanto, para análise referente à população privada de liberdade após esse período, utilizar a variável “PPL” (população privada de liberdade).
+ Para informações detalhadas sobre o Sinan-Tuberculose e sobre as análises de indicadores epidemiológicos e operacionais da tuberculose, acessar o link: http://portalsinan.saude.gov.br/tuberculose
+ Em caso de dúvidas, encaminhar e-mail para: tuberculose@saude.gov.br
+ Dados de 2001 a 2016 estão finalizados.
+ Dados de 2017 a 2020 atualizados em 02/2021, sujeitos à revisão.
+ Dados de 2020 referentes ao estado do Espírito Santo são oriundos do Sistema de Informação e-SUS VS, em uso pelo estado desde janeiro de 2020. Variáveis de acompanhamento e encerramento são indisponíveis nesse sistema.
+ Dados disponibilizados no TABNET em 04/2021, após homologação da Coordenação Geral de Vigilância das Doenças de Transmissão Respiratória de Condições Crônicas/DCCI/SVS.
+ 

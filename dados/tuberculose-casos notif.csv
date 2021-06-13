@@ -1,0 +1,51 @@
+TUBERCULOSE - Casos confirmados notificados no Sistema de Informação de Agravos de Notificação - Brasil
+Casos confirmados por UF de notificação e Ano Diagnóstico
+Período:2001-2020
+"UF de notificação";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"Total"
+"11 Rondônia";674;639;651;628;630;519;548;564;680;572;685;692;711;686;665;775;780;678;740;573;13090
+"12 Acre";364;368;368;356;329;391;314;314;364;347;392;409;406;462;361;450;484;483;582;537;8081
+"13 Amazonas";2334;2286;2375;2559;2477;2432;2461;2688;2606;2764;2686;2842;3060;3143;3404;3259;3693;3803;3955;3500;58327
+"14 Roraima";150;172;206;218;155;147;137;155;145;152;171;137;167;148;174;160;205;265;324;286;3674
+"15 Pará";3517;3785;3940;4089;3975;3789;3763;3790;4106;4104;4334;4048;4119;3940;3991;4224;4511;4678;5542;4437;82682
+"16 Amapá";223;296;273;275;274;245;273;266;253;221;259;253;220;211;225;287;298;284;357;274;5267
+"17 Tocantins";320;333;284;260;253;256;231;207;223;216;215;185;194;186;193;210;187;233;234;200;4620
+"21 Maranhão";2901;3043;2980;2974;3179;2883;2780;2464;2462;2414;2505;2185;2278;2111;2238;2442;2469;2647;2666;2332;51953
+"22 Piauí";1568;1519;1448;1563;1551;1306;1357;1224;1108;994;1002;921;908;813;754;812;791;884;877;758;22158
+"23 Ceará";4240;4385;4586;4461;4656;4140;4161;4473;4664;4315;4398;4236;4052;3879;4012;4045;4289;4555;4544;3696;85787
+"24 Rio Grande do Norte";1158;1179;1354;1373;1356;1163;1112;1211;1185;1109;1269;1208;1273;1187;1156;1182;1354;1624;1417;1502;25372
+"25 Paraíba";1369;1395;1465;1508;1482;1122;1182;1324;1320;1327;1413;1426;1429;1312;1250;1215;1360;1542;1486;1263;27190
+"26 Pernambuco";4542;4870;5153;5451;5319;4898;4835;4995;5028;5175;5390;5696;5420;5443;5649;5513;6378;6491;6793;6069;109108
+"27 Alagoas";1332;1351;1426;1422;1507;1356;1380;1408;1448;1368;1327;1358;1324;1245;1068;1236;1264;1340;1288;922;26370
+"28 Sergipe";557;599;664;634;834;697;593;695;686;630;669;617;710;788;771;800;832;978;1022;793;14569
+"29 Bahia";7935;7853;8435;8212;7937;7148;6734;6667;6971;6521;6412;6082;5679;5612;5304;5300;5498;5667;5653;4448;130068
+"31 Minas Gerais";1331;5886;5982;6086;5926;5369;5311;5188;4851;4443;4626;4257;4200;4193;4055;4073;4064;4224;4356;3889;92310
+"32 Espírito Santo";1658;1569;1563;1529;1448;1353;1432;1537;1427;1478;1450;1461;1384;1314;1395;1238;1324;1484;1492;1734;29270
+"33 Rio de Janeiro";16976;16789;16130;15832;15325;14200;14206;14676;14390;14241;14331;14018;13349;13095;13367;13645;13927;14819;14963;13077;291356
+"35 São Paulo";19775;19807;19202;18584;18428;18059;17643;18452;17828;18213;19083;18676;19530;19976;20376;20587;22119;22258;21953;19045;389594
+"41 Paraná";3224;3436;3454;3294;3418;2832;3059;2991;2808;2770;2722;2534;2650;2554;2466;2436;2501;2860;2883;2814;57706
+"42 Santa Catarina";1695;1873;1903;1870;1837;1820;1866;2022;2002;2070;2218;2229;2268;2248;2180;2199;2228;2282;2265;1509;40584
+"43 Rio Grande do Sul";5231;5509;5786;5906;5661;5155;5496;5687;6100;6180;6360;6405;6348;6372;6380;6043;6599;6908;7642;6327;122095
+"50 Mato Grosso do Sul";980;914;1022;1034;1053;882;963;1019;1044;943;1047;1091;1098;998;1003;1130;1140;1455;1406;1171;21393
+"51 Mato Grosso";1425;1248;1267;1148;1344;1310;1170;1280;1158;1368;1371;1605;1886;1794;1442;1456;1430;1414;1532;1188;27836
+"52 Goiás";1148;1149;1242;1089;1081;976;959;953;1012;1016;989;1058;1072;991;1095;1027;1163;1212;1173;952;21357
+"53 Distrito Federal";638;606;614;625;621;583;634;518;449;430;489;554;473;512;478;463;413;471;483;382;10436
+"00 Ignorado/exterior";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"Total";87265;92859;93773;92980;92056;85031;84600;86768;86318;85381;87813;86183;86208;85213;85452;86207;91301;95539;97629;83678;1772254
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Excluídos os registros encerrados com mudança de diagnóstico.
+ Períodos disponíveis - Correspondem aos anos de diagnóstico dos casos.
+ Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável de interesse, e na coluna a variável “Ano do diagnóstico”; em “Períodos Disponíveis” assinale o ano inicial da série e todos os posteriores até o ano atual (para
+ Para cálculo da incidência selecione o local de residência e as seguintes categorias da variável “Tipo de entrada”: caso novo, não sabe e pós óbito.
+ A variável “Beneficiário de programa de transferência de renda do governo” não contém dados do Estado de São Paulo (SP). Quanto a variável “Terapia antirretroviral durante o tratamento da TB”, os dados do estado de SP foram inseridos a partir do seg
+ Não é possível calcular indicadores relacionados aos contatos de tuberculose.
+ Em 2014, foram incluídas as seguintes variáveis no Sinan-Net (Tuberculose): populações especiais (população privada de liberdade, população em situação de rua, profissional de saúde e imigrante), doenças e agravos associados (uso de drogas ilícitas
+ A variável “institucionalizado” foi descontinuada em 2015. Portanto, para análise referente à população privada de liberdade após esse período, utilizar a variável “PPL” (população privada de liberdade).
+ Para informações detalhadas sobre o Sinan-Tuberculose e sobre as análises de indicadores epidemiológicos e operacionais da tuberculose, acessar o link: http://portalsinan.saude.gov.br/tuberculose
+ Em caso de dúvidas, encaminhar e-mail para: tuberculose@saude.gov.br
+ Dados de 2001 a 2016 estão finalizados.
+ Dados de 2017 a 2020 atualizados em 02/2021, sujeitos à revisão.
+ Dados de 2020 referentes ao estado do Espírito Santo são oriundos do Sistema de Informação e-SUS VS, em uso pelo estado desde janeiro de 2020. Variáveis de acompanhamento e encerramento são indisponíveis nesse sistema.
+ Dados disponibilizados no TABNET em 04/2021, após homologação da Coordenação Geral de Vigilância das Doenças de Transmissão Respiratória de Condições Crônicas/DCCI/SVS.
+ 
